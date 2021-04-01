@@ -8,7 +8,7 @@ public class Disabling {
 
             String a = "This method";
         }
-        public void the  Method2(){
+        public void theMethod2(){
 
             String b = "This method 2";
 
